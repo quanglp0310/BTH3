@@ -32,7 +32,7 @@ a:hover {
 }
 .header {
     height:135px;
-    background-image: url("/images/background.png");    
+    background-image: url("../images/background.png");    
 }
 .header, .header a {
     color:#fff;
@@ -180,7 +180,7 @@ a:hover {
 
     
 .footer{
-    background-image: url(/images/background.png);
+    background-image: url("../images/background.png");
     color:#fff;
 }
 .footer-bottom{
